@@ -1,24 +1,20 @@
+# Estació meteorològica micro:bit
 
-> Obre aquesta pàgina a [https://raimonizard.github.io/microbit-template-repo-python/](https://raimonizard.github.io/microbit-template-repo-python/)
+L’objectiu és:
+- Dibuixar un gràfic per la matriu de leds i per la pantalla, que mostri gràficament la temperatura
+# EXTRA: 
 
-## Utilitza-ho com a extensió
+- Simular el moviment d’una gota a la matriu de LEDs: un únic LED encès que es mou inclinant la targeta micro:bit
+    
+---
 
-Aquest dipòsit es pot afegir com una **extensió** a MakeCode.
 
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a **Projecte nou**
-* fes clic a **Extensions** sota el menú de la roda dentada
-* cercar **https://github.com/raimonizard/microbit-template-repo-python** i importar
 
-## Edita aquest projecte
+# Ex1
 
-Per editar aquest repositori a MakeCode.
+https://github.com/user-attachments/assets/4a3c0db4-b496-4f90-88dc-785d75cafbdb
 
-* obre [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* fes clic a ** Importa** i després a ** Importa URL**
-* enganxa **https://github.com/raimonizard/microbit-template-repo-python** i clica importar
+# Extra
 
-#### Metadades (utilitzades per a la cerca, renderització)
+https://github.com/user-attachments/assets/12730690-3e01-44f3-8d14-61cbc4fa136f
 
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
