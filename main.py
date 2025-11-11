@@ -26,22 +26,7 @@ while executant:
         y += 1
 
 
-
-"""valor_maxim = 50
-executant = True
-
-def dibuix_barra(temp, maxim):
-    columnes = int(temp * 5 / maxim)
-    columnes = max(0, min(columnes, 5))
-    basic.clear_screen()
-    for x in range(columnes):
-        for y in range(5):
-            led.plot(x, 4 - y)
-
-while executant:
+def on_forever():
     temperatura = input.temperature()
-    dibuix_barra(temperatura, valor_maxim)
-    basic.pause(100)
-    if input.button_is_pressed(Button.A): 
-        ejecutando = False
-"""
+    led.plot_bar_graph(temperatura, 50)
+basic.forever(on_forever)
