@@ -12,7 +12,7 @@ L’objectiu és:
 
 # Ex1
 
-https://github.com/user-attachments/assets/4a3c0db4-b496-4f90-88dc-785d75cafbdb
+<img width="916" height="178" alt="image" src="https://github.com/user-attachments/assets/2f41d1a0-d501-4cab-a32e-e95ae2281b50" />
 
 # Extra
 
